@@ -2,7 +2,7 @@
 
 This project investigates the inhibitory potential of phytochemicals from *Rosmarinus officinalis* (rosemary) against key enzymes in type 2 diabetes using molecular docking and dynamics simulations.
 
-## 🧪 Targets Studied
+## Targets Studied
 
 - **α-Amylase** – compared with **Acarbose**
 - **DPP-4** – compared with **Linagliptin**
@@ -10,7 +10,7 @@ This project investigates the inhibitory potential of phytochemicals from *Rosma
 
 For each target, docking was followed by GROMACS-based 20 ns molecular dynamics simulations.
 
-## 📁 Project Structure
+## Project Structure
 
 
 Each folder includes:
@@ -22,18 +22,18 @@ Each folder includes:
 
 > ⚠️ Large output files (e.g., `.xtc`, `.trr`, `.edr`) were excluded to keep this repo lightweight. Full data is available upon request.
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **PyRx** / AutoDock Vina – for initial docking
 - **GROMACS** – for energy minimization, equilibration, and production MDS
 - **Python / Bash** – for trajectory analysis (RMSD, RMSF, Rg)
 
-## 📌 Author
+## Author
 
 James Jacob Wabwile  
-📧 jamesbwile@gmail.com  
-🎓 MSc Bioinformatics, University of Nairobi  
-🧪 Erasmus+ Research Intern – CEU Spain
+jamesbwile@gmail.com  
+MSc Bioinformatics, University of Nairobi  
+Erasmus+ Research Intern – CEU Spain
 
 ---
 
