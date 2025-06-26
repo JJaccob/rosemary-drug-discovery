@@ -30,7 +30,7 @@ Each folder includes:
 
 ## Author
 
-James Jacob Wabwile  
+James Jacob
 jamesbwile@gmail.com  
 MSc Bioinformatics, University of Nairobi  
 Erasmus+ Research Intern – CEU Spain
